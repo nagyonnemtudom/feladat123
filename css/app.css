@@ -1,0 +1,31 @@
+body{
+    background-color: silver;
+
+}
+.container{
+    background-color: wheat;
+    box-shadow:  0 0 10px gray;
+    padding: 10px;
+}
+header{
+    background-color: aquamarine;
+    color: white;
+    font-size: 200%;
+    text-align: center;
+    padding: 20px;
+}
+footer{
+    background-color: beige;
+    color: wheat;
+    text-align: center;
+    letter-spacing:  3px;
+    padding: 10px;
+    font-size: 80%;
+
+}
+h1{
+    text-transform: uppercase !important;
+    font-size: 150%;
+    text-align: center;
+    padding: 10px 0;
+}
